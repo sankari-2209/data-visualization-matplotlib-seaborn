@@ -49,4 +49,4 @@ jupyter notebook Tips_Data_Visualization.ipynb
 ```
 Or upload the notebook to Google Colab and choose Runtime > Run all.
 
-**Author:** Your Name
+**Author:** Sankari
